@@ -1,5 +1,6 @@
 # Disney-Next
 <h3>Página principal de disney+ con Next y Tailwind</h3>
+<p>Las peliculas tiene una página individual que reproduce el trailer de la misma.</p>
 DEMO:https://disney-next.vercel.app/
 <hr/>
 <p>:clipboard:Comentarios en el código</p>
